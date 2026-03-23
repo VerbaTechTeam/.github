@@ -11,7 +11,7 @@ Our ecosystem consists of specialized layers that communicate with each other in
   * **Waterflow Pixel Interface (WPI)** – The communication and logic layer.
       * **[wpi-core](https://github.com/VerbaTechTeam/wpi-core)** – *[In development]* The main API core written in **Java**, responsible for low-level logic and interface stability.
   * **Waterflow Pixel Unit (WPU)** – The execution and hardware layer.
-      * **[waterflow-pixel-unit](https://github.com/VerbaTechTeam/waterflow-pixel-unit)** – *[In testing]* **MicroPython**-based firmware for **Raspberry Pi Pico 2W**. The hardware runs its own **HTTP server with a REST API**, allowing for direct control of physical LED strips over the network.
+      * **[waterflow-pixel-unit](https://github.com/VerbaTechTeam/waterflow-pixel-unit)** – **MicroPython**-based firmware for **Raspberry Pi Pico 2W**. The hardware runs its own **HTTP server with a REST API**, allowing for direct control of physical LED strips over the network.
 
 ### 🛠️ Tech Stack
   * **Java** – Development of the system core, business logic, and frontend layers.
