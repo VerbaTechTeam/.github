@@ -1,3 +1,4 @@
+
 # VerbaTechTeam
 > *We create words that devices understand.*
 
@@ -7,6 +8,8 @@ Welcome to the **VerbaTechTeam** GitHub organization. We develop advanced softwa
 We are developing the **Waterflow Pixel (WP)** system – a modular solution based on **REST** architecture. It enables seamless management of device visual layers, ranging from high-level business logic to direct pixel manipulation.
 
 ### 🚀 Waterflow Pixel System Architecture
+![WP-ecosystem](https://github.com/user-attachments/assets/00cdb8bb-a9b3-44a0-b547-ad55a7d0ebe8)
+
 Our ecosystem consists of specialized layers that communicate with each other in real-time:
   * **Waterflow Pixel Interface (WPI)** – The communication and logic layer.
       * **[wpi-core](https://github.com/VerbaTechTeam/wpi-core)** – *[In development]* The main API core written in **Java**, responsible for low-level logic and interface stability.
